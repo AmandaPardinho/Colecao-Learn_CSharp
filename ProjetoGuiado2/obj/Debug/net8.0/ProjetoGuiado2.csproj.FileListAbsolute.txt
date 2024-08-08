@@ -1,0 +1,15 @@
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\bin\Debug\net8.0\ProjetoGuiado2.exe
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\bin\Debug\net8.0\ProjetoGuiado2.deps.json
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\bin\Debug\net8.0\ProjetoGuiado2.runtimeconfig.json
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\bin\Debug\net8.0\ProjetoGuiado2.dll
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\bin\Debug\net8.0\ProjetoGuiado2.pdb
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.AssemblyInfoInputs.cache
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.AssemblyInfo.cs
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.csproj.CoreCompileInputs.cache
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.sourcelink.json
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.dll
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\refint\ProjetoGuiado2.dll
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.pdb
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ProjetoGuiado2.genruntimeconfig.cache
+D:\github\colecao-microsoft-learn\ProjetoGuiado2\obj\Debug\net8.0\ref\ProjetoGuiado2.dll
