@@ -8,7 +8,7 @@ string course4Name = "Computer Science I";
 string course5Name = "Psychology 101";
 
 //Credit
-string credit = "Credit";
+string credit = "Credit Hours";
 int course1Credit = 3;
 int course2Credit = 3;
 int course3Credit = 4;
@@ -43,11 +43,16 @@ totalGradePoints += course3Grade * course3Credit;
 totalGradePoints += course4Grade * course4Credit;
 totalGradePoints += course5Grade * course5Credit;
 
-Console.WriteLine($"\n{totalGradePoints} {totalCreditHours}");
+//Grade Point Average (GPA)
+decimal gradePointAverage = (decimal)totalGradePoints / totalCreditHours;
 
-Console.WriteLine($"{course}\t\t\t\t{grade}\t\t\t{credit}\n");
-Console.WriteLine($"{course1Name}\t\t\t {course1Grade}\t\t\t {course1Credit}");
-Console.WriteLine($"{course2Name}\t\t\t {course2Grade}\t\t\t {course2Credit}");
-Console.WriteLine($"{course3Name}\t\t\t {course3Grade}\t\t\t {course3Credit}");
-Console.WriteLine($"{course4Name}\t\t {course4Grade}\t\t\t {course4Credit}");
-Console.WriteLine($"{course5Name}\t\t\t {course5Grade}\t\t\t {course5Credit}");
+Console.WriteLine($"Student: {studentName}\n");
+Console.WriteLine($"{course}\t\t\t\t{grade}\t {credit}\n");
+Console.WriteLine($"{course1Name}\t\t\t {course1Grade}\t\t{course1Credit}");
+Console.WriteLine($"{course2Name}\t\t\t {course2Grade}\t\t{course2Credit}");
+Console.WriteLine($"{course3Name}\t\t\t {course3Grade}\t\t{course3Credit}");
+Console.WriteLine($"{course4Name}\t\t {course4Grade}\t\t{course4Credit}");
+Console.WriteLine($"{course5Name}\t\t\t {course5Grade}\t\t{course5Credit}");
+
+//The GPA result that will be displayed was done differently than proposed
+Console.WriteLine($"\nFinal GPA:\t\t\t {Math.Round(gradePointAverage, 2)}");
