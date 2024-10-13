@@ -1,0 +1,15 @@
+D:\github\colecao-microsoft-learn\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\github\colecao-microsoft-learn\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\github\colecao-microsoft-learn\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\github\colecao-microsoft-learn\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\github\colecao-microsoft-learn\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\github\colecao-microsoft-learn\TestProject\obj\Debug\net8.0\ref\TestProject.dll
